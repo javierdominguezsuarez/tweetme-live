@@ -1,1 +1,0 @@
-web: gunicorn tweetme2.wsgi --log-file --workers 3
